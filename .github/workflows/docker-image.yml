@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: skal48/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: suminnamgung/nodejs-github-action:${{ env.CURRENT_TIME }}
